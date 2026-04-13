@@ -107,7 +107,7 @@ Each detection is supported by a structured investigation process:
 
 ## Project Structure
 ```
-Project 04/
+Advanced PowerShell Attack Detection and Correlation (Splunk + Sysmon)/
 ├── architecture/
 ├── detections/
 ├── baselining/
